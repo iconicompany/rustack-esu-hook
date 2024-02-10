@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from esu import Manager, DnsRecord
 import argparse
 parser = argparse.ArgumentParser(description='ESU DNS CLIENT')
